@@ -7,7 +7,7 @@
             Console.WriteLine("Введите 1 число");
             double a = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine("Вветиде операцию");
+            Console.WriteLine("Введите операцию");
             string op = Console.ReadLine();
 
             Console.WriteLine("Введите 2 число");
