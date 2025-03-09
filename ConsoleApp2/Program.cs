@@ -30,7 +30,7 @@
                     Console.WriteLine(a *b);
                     break;
                 case "%":
-                    Console.WriteLine(a%b);
+                    Console.WriteLine(a*b/100);
                     break;
                 default:
                     Console.WriteLine("Неизвестная операция");
